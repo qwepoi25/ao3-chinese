@@ -125,6 +125,9 @@ Armored Knight=重装骑士
 Mortal Savant=墓志铭
 Paladin=神圣骑士
 Wyvern Rider=飞龙骑士
+fe=菲
+Areadbhar=阿莱德巴尔
+
 
 
 
