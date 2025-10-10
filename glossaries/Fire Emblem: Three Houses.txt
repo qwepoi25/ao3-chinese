@@ -97,6 +97,8 @@ Hero's Relics=英雄的遗产
 
 //不区分大小写
 Holy Kingdom of Faerghus=法嘉斯神圣王国
+Fraldarius=伏拉鲁达力乌斯
+Dima=帝米
 Adrestian Empire=阿德剌斯忒亚帝国
 Leicester Alliance=雷斯塔诸侯同盟
 Brigid=布里基特
