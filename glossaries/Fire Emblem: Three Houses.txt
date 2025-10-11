@@ -1,6 +1,6 @@
 维护者：1339088820@qq.com
 版本号：1.5.4
-更新时间：2025-10-10
+更新时间：2025-10-11
 
 词条
 //区分大小写
@@ -90,7 +90,8 @@ Tragedy of Duscur=达斯卡悲剧
 The Progenitor God=创世女神
 Crest=纹章
 Hero's Relics=英雄的遗产
-
+Dima=迪玛
+Fe=菲
 
 
 通用词条
@@ -98,7 +99,6 @@ Hero's Relics=英雄的遗产
 //不区分大小写
 Holy Kingdom of Faerghus=法嘉斯神圣王国
 Fraldarius=伏拉鲁达力乌斯
-Dima=帝米
 Adrestian Empire=阿德剌斯忒亚帝国
 Leicester Alliance=雷斯塔诸侯同盟
 Brigid=布里基特
