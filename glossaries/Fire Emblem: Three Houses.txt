@@ -51,6 +51,7 @@ Emperor Ionius IX=伊欧尼亚斯九世
 Lord Arundel=亚兰德尔公
 Flame Emperor=炎帝
 Reaper Knight=死神骑士
+Kronya=科萝妮艾
 Sitri Eisner=希特莉·艾斯纳
 Randolph von Bergliez=兰道夫·冯·贝尔谷里斯
 Fleche von Bergliez=芙蕾伽·冯·贝尔谷里斯
@@ -92,6 +93,7 @@ Crest=纹章
 Hero's Relics=英雄的遗产
 Dima=迪玛
 Fe=菲
+Areadbhar=阿莱德巴尔
 
 
 通用词条
