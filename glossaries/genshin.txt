@@ -1,0 +1,521 @@
+// 元数据区
+版本号：1.0.1
+维护者：qwepoi25
+更新时间：2025-12-23
+
+词条
+// 此区域区分大小写，用于翻译专用概念
+Zibai=兹白
+White Horse Adeptus=白马仙人
+Tartaglia=达达利亚
+Childe=公子
+Ajax=阿贾克斯
+Zhongli=钟离
+Xianyun=闲云
+Xinyan=辛焱
+Xiao=魈
+Baizhu=白术
+Xiangling=香菱
+Keqing=刻晴
+Ningguang=凝光
+Qiqi=七七
+Xingqiu=行秋
+Chongyun=重云
+Beidou=北斗
+Ganyu=甘雨
+Hu Tao=胡桃
+Yanfei=烟绯
+Yun Jin=云堇
+Shenhe=申鹤
+Yelan=夜兰
+Yaoyao=瑶瑶
+Gaming=嘉明
+Lan Yan=蓝砚
+
+Chang the Ninth=常九爷
+Mr. Nine=九老师
+Jujian=居简
+Cairuo=采若
+Edler=埃德勒
+Corder=科德
+Doddamani=多达马尼
+Zhuoxin=卓新
+Signora=女士
+Rosalyne-Kruzchka Lohefalter=罗莎琳·克鲁兹希卡·洛厄法特
+Lutong=路通
+Madame Ping=萍姥姥
+Streetward Rambler=歌尘浪市真君
+Moon Carver=削月筑阳真君
+Mountain Shaper=理水叠山真君
+Azhdaha=若陀龙王
+Cloud Retainer=留云借风真君
+Bosacius=浮舍
+Menogias=弥怒
+Bonanus=伐难
+Indarias=应达
+Chef Mao=卯师傅
+Yan'er=胭儿
+Havria=赫乌莉亚
+Sea Gazer=鸣海栖霞真君
+Skybracer=移霄导天真君
+Changsheng=长生
+Baiwen=百闻
+Baishi=百识
+Baixiao=百晓
+Ms. Yu=小雨
+Jiawei=嘉玮
+Shitou=石头
+Anton Melnikov=安东·梅利尼科夫
+Antoha=安托哈
+Temur=提莫尔
+Danila=达尼拉
+Radomir=拉多米尔
+Katarina=卡塔琳娜
+Qi Ding=戚定
+Kun Jun=昆钧
+Boyang=伯阳
+Fujin=浮锦
+Lingyuan=灵渊
+Herblord=药君
+Houzhang=侯章
+Jiehu=接笏
+Tao Dou=桃都
+Bune=擘那
+Jinghe=荆和
+Alrani=爱拉尼
+Xingyan=星燕
+Uncle Tian=天叔
+Guoba=锅巴
+Pervases=铜雀
+Wang Ping'an=王平安
+Bao'er=宝儿
+Guizhong=归终
+Verr Goldet=菲尔戈黛特
+Huai'an=淮安
+Smiley Yanxiao=言笑
+Jiangxue=江雪
+Ying'er=莺儿
+Lan=岚姐
+Hanfeng=寒锋
+Cold Blade=寒锋
+Master Zhang=老章
+Jifang=纪芳
+Tea Master Liu Su=茶博士刘苏
+Fan Er'ye=范二爷
+Soraya=索拉雅
+Jinwu=瑾武
+Yuehui=玥辉
+Muning=沐宁
+Zhiqiong=志璇
+Taliesin=塔列辛
+Khedive Pursina=海迪夫·普尔希纳
+Clitopho=克里托夫
+Uncle He=何爷
+Brass Bull Zhao=赵铁牛
+Chen the Flower=陈娇花
+Yanbo=彦博
+Xamaran=赞玛兰
+Uncle Luo=罗叔
+Little Mao=小茂
+Yuandai=远黛
+Shuyu=漱玉
+Man Chai=文仔
+Yip Tak=叶德
+Teucer=托克
+Lone Butterfly of the Crimson Flame=朱赤引火幽蝶
+Jade-Plumed Silverwing=银翎翦玉玄鸟
+Gold-Eyed Celadon Mare=金目乘黄月驹
+Sage Hu=瓠真人
+Sage Jian=鉴真人
+Yunlai Angler=云来钓叟
+Wuwang Kid=无妄童子
+Wind Reader=万象风角灵官
+Scamfac=诈狂
+Mr. Zhongli=钟离先生
+Dr. Baizhu=白先生
+Ms. Yun=云先生
+Rex Lapis=岩王帝君
+Uncle Mountain Shaper=理水叔叔
+Aunty Cloud Retainer=留云阿姨
+Eight Adepts=八奇仙
+Yuheng=玉衡
+Tianquan=天权
+Fortune Preserver=救苦渡厄真君
+Zhenyu=枕玉
+consultant=客卿
+Conqueror of Demons=降魔大圣
+Guardian Yaksha=护法夜叉
+Morax=摩拉克斯
+Alatus=金鹏
+Tianshu=天枢
+Marchosius=马科修斯
+God of the Stove=灶神
+Marshal Vritras=腾蛇太元帅
+General Kapisas=心猿大将
+General Chizapus=螺卷大将
+General Musatas=火鼠大将
+Haagentus=哈艮图斯
+God of Dust=尘之魔神
+God of Salt=盐之魔神
+Ninth Company Brevet Commander=「第九连队」临时连长
+Starsnatcher=掇星攫辰天君
+Geo Archon=岩神
+Overlord of the Vortex=旋涡之魔神
+The Avenger of the Vortex=漩涡的余威
+The Guardian Adepti=护法仙众夜叉录
+Yakshas=仙众夜叉
+the mighty and illuminated adepti=三眼五显仙人
+Adeptus name=仙号
+Geovishap=岩龙蜥
+Chihu Rock= 螭虎岩
+Minlin=珉林
+Luhua Pool=渌华池
+Cuijue Slope=翠玦坡
+Mt. Aocang=奥藏山
+Dihua Marsh=荻花洲
+Liyue=璃月
+Liyue Harbor=璃月港
+Feiyun Slope=绯云坡
+Jade Chamber=群玉阁
+Blackcliff Forge=黑岩厂
+Lisha=璃沙郊
+Golden House=黄金屋
+Mt. Tianheng=天衡山
+Lingju Pass=灵矩关
+Qingxu Pool=青墟浦
+Dunyu Ruins=遁玉陵
+Qiongji Estuary=琼玑野
+Guili Plains=归离原
+Mingyun Village=明蕴镇
+Yaoguang Shoal=瑶光滩
+Sal Terrae=地中之盐
+Tianqiu Valley=天遒谷
+Jueyun Karst=绝云间
+Nantianmen=南天门
+Mt. Hulao=琥牢山
+Qingyun Peak=庆云顶
+Huaguang Stone Forest=华光林
+Bishui Plain=碧水原
+Wangshu Inn=望舒客栈
+Stone Gate=石门
+Wuwang Hill=无妄坡
+Qingce Village=轻策庄
+Sea of Clouds=云来海
+Guyun Stone Forest=孤云阁
+Qiaoying Village=翘英庄
+Chenyu Vale=沉玉谷
+The Chasm=层岩巨渊
+Fuao Vale=伏鳌谷
+The Surface=地面矿区
+The Chasm's Maw=巨渊之口
+Cinnabar Cliff=丹砂崖
+Glaze Peak=琉璃峰
+Tiangong Gorge=天工峡
+Lumberpick Valley=采樵谷
+The Chasm: Underground Mines=层岩巨渊·地下矿区
+The Serpent's Cave=巨蛇岩洞
+Underground Waterway=地下水泽
+Stony Halls=崎岖石厅
+The Glowing Narrows=荧光狭道
+Yilong Wharf=遗珑埠
+Mt. Mingyuan=暝垣山
+Mt. Lingmeng=灵濛山
+Jademouth=宝玦口
+Chenlong Cleft=沉珑渊
+Lingshu Courtyard=灵枢庭
+Teatree Slope=古茶树坡
+Yaodie Valley=药蝶谷
+Chizhang Wall=赤璋城垣
+Chiwang Terrace=赤望台
+Carp's Rest=锦落庭
+Mt. Xuanlian=悬练山
+Alcor=死兆星号
+Domain of Guyun=孤云凌霄之处
+Hidden Palace of Guizang Formula=华清归藏密宫
+Hidden Palace of Zhou Formula=无妄引咎密宫
+Beneath the Dragon-Queller=伏龙树之底
+Chamber of Twisted Cranes=鹤径折旋之所
+Yun-Han Opera Troupe=云翰社
+Taishan Mansion=太山府
+The Crux Fleet=南十字船队
+Feiyun Commerce Guild=飞云商会
+Guhua Clan=古华派
+Shenglu Hall=盛露厅
+Huishan Hall=辉山厅
+Ministry of Civil Affairs=总务司
+Millelith Brigade=千岩团
+Millelith=千岩军
+Qixing of Liyue=璃月七星
+Liyue Qixing=璃月七星
+Northland Bank=北国银行
+Pearl Galley=珠钿舫
+Yujing Terrace=玉京台
+Yuehai Pavilion=月海亭
+Wangsheng Funeral Parlor=往生堂
+Wanmin Restaurant=万民堂
+Bubu Pharmacy=不卜庐
+Wanwen Bookhouse=万文集舍
+Yanshang Teahouse=岩上茶室
+Liuli Pavilion=琉璃亭
+Xinyue Kiosk=新月轩
+Third-Round Knockout=三碗不过港
+Hanfeng's Ironmongers=寒锋铁器
+Heyu Tea House=和裕茶馆
+Scent of Spring=春香窑
+The Jade Mystery=解翠行
+Mingxing Jewelry=明星斋
+Jade Chamber=群玉阁
+Foul Legacy Transformation=魔王武装
+Noctilucous Jade=夜泊石
+Cor Lapis=石珀
+Silk Flower=霓裳花
+Columbina Hyposelenia=哥伦比娅·希珀塞莱尼娅
+Damselette=少女
+Sandrone=桑多涅
+Marionette=木偶
+Scaramouche=斯卡拉姆齐
+Balladeer=散兵
+Kunikuzushi=国崩
+Regrator=富人
+Dottore=多托雷
+The Doctor=博士
+Pulcinella=普契涅拉
+The Rooster=公鸡
+Capitano=卡皮塔诺
+The Captain=队长
+Thrain=瑟雷恩
+Arlecchino=阿蕾奇诺
+The Knave=仆人
+Snezhevna=雪奈茨芙娜
+Snezhevich=雪奈茨维奇
+Pierro=皮耶罗
+The Jester=丑角
+Peruere=佩露薇利
+Crucabena=库嘉维娜
+Fatui=愚人众
+Crimson Lotus Moth=红莲蛾
+Everlasting Lord of Arcane Wisdom=七叶寂照秘密主
+Wanderer=流浪者
+Pantalone=潘塔罗涅
+Harbinger=执行官
+House of the Hearth=壁炉之家
+Alice=艾莉丝
+Nicole Reeyn=尼可·莱恩
+Durin=杜林
+Varka=法尔伽
+Bennett=班尼特
+Barbara Pegg=芭芭拉·佩奇
+Rosaria=罗莎莉亚
+Eula Lawrence=优菈·劳伦斯
+Jean Gunnhildr=琴·古恩希尔德
+Amber=安柏
+Kaeya Alberich=凯亚·亚尔伯里奇
+Lisa Minci=丽莎·敏兹
+Venti=温迪
+Razor=雷泽
+Noelle=诺艾尔
+Fischl von Luftschloss Narfidort=菲谢尔·冯·露弗施洛斯·那菲多特
+Diluc Ragnvindr=迪卢克·莱艮芬德
+Klee=可莉
+Diona Kätzlein=迪奥娜·凯茨莱茵
+Sucrose=砂糖
+Albedo=阿贝多
+Astrologist Mona Megistus=阿斯托洛吉斯·莫娜·梅姬斯图斯
+Serenitea Pot=尘歌壶
+Teyvat=提瓦特
+Mondstadt=蒙德
+Inazuma=稻妻
+Sumeru=须弥
+Fontaine=枫丹
+Natlan=纳塔
+Snezhnaya=至冬
+Khaenri’ah=坎瑞亚
+Slime=史莱姆
+Hilichurl=丘丘人
+Treasure Hoarders=盗宝团
+Statues of The Seven=七天神像
+Teleport Waypoint=传送锚点
+Adventurer’s Guild=冒险家协会
+Cyno=赛诺
+Tighnari=提纳里
+Alhaitham=艾尔海森
+Kaveh=卡维
+Nahida=纳西妲
+Ruler of Space=空之执政
+Chief Justice=最高审判官
+Focalors=芙卡洛斯
+Traveler=旅行者
+Ruler of Death=死之执政
+Ruler of Time=时之执政
+Ruler of Life=生之执政
+Baal=巴尔
+Beelzebul=巴尔泽布
+Electro Archon=雷神
+Kreideprinz=白垩之子
+Barbatos=巴巴托斯
+Anemo Archon=风神
+Haborym=赫布里穆
+Lesser Lord Kusanali=小吉祥草王
+Buer=布耶尔
+Hydro Archon=水神
+God=魔神
+The Seven=尘世七执政
+Furina=芙宁娜
+Neuvillette=那维莱特
+Wriothesley=莱欧斯利
+
+通用词条
+// 此区域区分大小写，用于翻译专用概念
+Pyro=火
+Hydro=水
+Dendro=草
+Electro=雷
+Anemo=风
+Cryo=冰
+Geo=岩
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
