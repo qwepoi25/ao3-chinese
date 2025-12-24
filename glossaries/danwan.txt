@@ -5,6 +5,7 @@
 词条
 Komaeda Nagito=狛枝凪斗
 Hinata Hajime=日向创
+Hajime=创
 Nanami Chiaki=七海千秋
 Sonia Nevermind=索妮亚·内瓦麦
 Owari Akane=终里赤音
@@ -26,6 +27,7 @@ Asahina Aoi=朝日奈葵
 Enoshima Junko=江之岛盾子
 Monokuma=黑白熊
 Kamukura Izuru=神座出流
+Izuru=出流
 monaka=塔和最中
 Usami=兔兔美
 Monomi=黑白美
