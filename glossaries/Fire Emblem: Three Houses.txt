@@ -4,6 +4,7 @@
 
 词条
 //区分大小写
+Almyran=帕迈拉
 Dimitri Alexandre Blaiddyd=帝弥托利·亚历山大·布雷达德
 Dedue Molinaro=杜笃·莫利纳洛
 Felix Hugo Fraldarius=菲力克斯·尤果·伏拉鲁达力乌斯
