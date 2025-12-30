@@ -94,7 +94,7 @@ Hero's Relics=英雄的遗产
 Dima=迪玛
 Fe=菲
 Areadbhar=阿莱德巴尔
-
+dagda=鞑古扎
 
 通用词条
 
